@@ -16,7 +16,7 @@ Me considero una persona muy proactiva, curiosa y detallista a la hora de aprend
   * Me considero un aficionado de la informática y de sus usos en la vida cotidiana para mejorar la vida de las personas.
 
 #### _Algunas de mis metas actuales_:
-  - [ ] Finalizar el curso que estoy realizando de Bases de Datos con MySQL.
+  - [X] Finalizar el curso que estoy realizando de Bases de Datos con MySQL.
   - [ ] Seguir aprendiendo las herramientas de Git y GitHub.
   - [ ] Aprender a programar en Java.
 
